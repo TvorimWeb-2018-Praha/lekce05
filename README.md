@@ -17,3 +17,7 @@ Krátký odkaz na stažení: [is.gd/lekce5](https://is.gd/lekce5)
 1. [Sloupce](priklady/03-media-query/3-sloupce.html)
 1. [Galerie](priklady/03-media-query/4-galerie.html)
 1. [Medailonek](priklady/03-media-query/5-medailonek.html)
+
+
+# Odkazy
+- [Vzhůru dolů - CSS3 Media Queries ](https://www.vzhurudolu.cz/prirucka/css3-media-queries)
